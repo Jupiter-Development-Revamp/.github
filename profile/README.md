@@ -1,15 +1,16 @@
 # Jupiter Development
-
-Welcome to the new Jupiter, now under the aliase Jupiter Development. With a change from our old ideals and beliefs, we now develop Lua scripts. Jupiter has gone through so much in such a short time, however, with its new innovations moving forward. We plan to ensure that we have moved on from our rocky and failed past, moving forward with a new and refreshed focus and purpose. Planning to persue what is valuable to us and you the consumer. Pioneering the future of game development, Jupiter is now officially apart of the Roblox community. Wanting to answer the call for new learning resources within the Roblox ecosystem. 
+Welcome to Jupiter Development otherwise known as Jupiter, Jupiter provides new and quality scripting. Under new leadership, Jupiter is taken to new heights that it otherwise never would be. Jupiter has always been innovative, and it is something Jupiter has prided itself on, innovative and free for its users. Jupiter is a trustworthy choice for many, it's the fact we never release anything that isn't open-sourced or paid! Jupiter is not a new development, Jupiter has been a development team since 2019, currently focusing purely on products for **you**!
 
 ## Background
-Jupiter was founded in a community that benefits no one and helps no one. Today, Jupiter Development stands as it's own separate identity, no longer creating exploits and cheats, but rather being beneficial to everyone. Providing new meaning to its former past. This rebrand from Jupiter to Jupiter Development is important signifying the future of an ethical and a commitment to a legitimate game Development. We've removed all old projects, as these violated Roblox Terms Of Service and our new values and beliefs. 
+While Jupiter was founded back in 2019 for cheats/exploits, our current changes in development and ownership now lead to a different route. No longer creating cheats or exploits, but rather providing a new meaning to its former past, creating Anti-Cheat solutions and Roblox games. All of our old and outdated projects have been removed, as they violated Roblox's Terms Of Service and the recent change in direction we have decided to partake in. **THIS MEANS YOU WILL NOT FIND ANY OF OUR OLD WORKS!!!**
 
-## Current Focus
-Currently, Jupiter Development is in its early stages of development, already having two projects in development (https://github.com/Jupiter-Development-Revamp/Roblox Anticheat). With a power to prevent exploiters, Jupiter is dedicated to teaching new people as well as themselves and going into fields they aren't comfortable in. 
+## Projects
+Jupiter despite being from 2019, has few viewable projects, while this might suck, Jupiter Development has been currently interested in exploring Anti-Cheat solutions, aiming to help and protect our games and developers on Roblox! We believe tools and resources should NOT be paid, but rather free and viewable to all!
+We plan to have projects such as **Armed Vortex** which is a proper Anti-Cheat (Unlike our released one). 
 
-## Future Plans
-Preparing for the future, Jupiter plans on offering many things, future projects, and future innovations to problems. With a long road of experience, we pave the way to new grounds and explore new things and places this has never been before. Venturing towards Anticheat solutions and venturing towards game development. Including possible future games, FPS and maybe even a really good game for horror. 
+## Developers
+Formerly Owned and Produced by StyxDeveloper, more well known as JJSploit On Top (Not Owner).
+Now Owned and Produced by PrometheusDeveloper, or known as Dan. 
 
 ## Join Us
 Join us (https://discord.gg/MstqrY6gtq) providing a new and innovative and future. 
