@@ -9,8 +9,7 @@ Jupiter despite being from 2019, has few viewable projects, while this might suc
 We plan to have projects such as **Armed Vortex** which is a proper Anti-Cheat (Unlike our released one). 
 
 ## Developers
-Formerly Owned and Produced by StyxDeveloper, more well known as JJSploit On Top (Not Owner).
-Now Owned and Produced by PrometheusDeveloper, or known as Dan. 
+Owned and Produced by PrometheusDeveloper, or known as John. 
 
 ## Join Us
 Join us (https://discord.gg/MstqrY6gtq) providing a new and innovative and future. 
