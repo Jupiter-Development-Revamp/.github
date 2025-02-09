@@ -1,15 +1,27 @@
-# Jupiter Development
-Welcome to Jupiter Development otherwise known as Jupiter, Jupiter provides new and quality scripting. Jupiter has always been innovative, and it is something Jupiter has prided itself on, innovative and free for its users. Jupiter is a trustworthy choice for many, it's the fact we never release anything that isn't open-sourced or and never made anyone pay! Jupiter is not a new development, Jupiter has been a development team since 2019, currently focusing purely on products for **you**!
+**Jupiter Development**
 
-## Background
-While Jupiter was founded back in 2019 for cheats/exploits, our current changes in development take a different route. No longer creating cheats or exploits, but rather providing a new meaning to its former past, creating Anti-Cheat solutions and Roblox games. **THIS MEANS YOU WILL NOT FIND ANY OF OUR OLD WORKS!!!**
+Welcome to **Jupiter Development**! Also known as Jupiter by our peers, we provide high-tech and quality **scripting solutions**. Innovation has always been at the core of Jupiter,  since 2019, and moving forward, we take great pride in our work. We are proud to be one of the few offering free open-source resources for all users. We will never release anything closed-source or charge for our work—Jupiter is a development team dedicated to teaching people and assisting many since **2019**.
 
-## Projects
-Jupiter despite being from 2019, has few viewable projects, while this might suck, Jupiter Development has been currently interested in exploring Anti-Cheat solutions, aiming to help and protect our games and developers on Roblox! We believe tools and resources should NOT be paid, but rather free and viewable to all!
-We plan to have projects such as **Armed Vortex** which is a proper Anti-Cheat (Unlike our released one). 
+📜 **Background**
 
-## Developers
-Owned and Produced by StyxDeveloper, or John. 
+Originally founded in 2019, Jupiter focused on cheats and unfair advantages. However, we have since shifted direction. We no longer develop cheats or exploits; instead, we are rewriting our shared history and making our past right by creating Anti-Cheat solutions.
 
-## Join Us
-Join us (https://discord.gg/MstqrY6gtq) providing a new and innovative and future. 
+🔴 **You will not find any of our old works!!!**
+
+🚀 **Projects**
+
+Despite our history dating back to 2019, Jupiter Development currently has a select number of public repositories. Our primary focus is on Anti-Cheat solutions to help protect games and developers on Roblox. We firmly believe that security tools and development resources should be free and accessible to all.
+
+🔹 **Armed Vortex** - A fully functional **Anti-Cheat system** still in development but already available for viewing.
+
+🔹 **Project Veritas** - A fully functional **Anti-Cheat**, not recommended for use though, it is client-sided.
+
+🔹 **Roblox Command Handlers** - A fully functional **command detector**, mostly used for admin systems.
+
+👨‍💻 **Developers**
+
+Jupiter Development is owned and operated by **StyxDeveloper (John)**.
+
+🌟 **Join Us**
+
+Be a part of our **innovation**, and suggest our **future**! Join our community: 
